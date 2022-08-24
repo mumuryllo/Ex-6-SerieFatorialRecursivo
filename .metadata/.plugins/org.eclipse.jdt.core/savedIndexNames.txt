@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\msseverino\OneDrive - rd.com.br\Desktop\Ex 6 sequencia\.metadata\.plugins\org.eclipse.jdt.core
+3999392173.index
+1865797976.index
+1419014417.index
